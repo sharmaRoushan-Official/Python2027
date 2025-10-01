@@ -1,0 +1,214 @@
+>> What is a program?
+-----------------------------------
+Program: A program is a set of Instructions given to the computer to perform a specific task.
+------------------------------------------------------------------------------------------------
+Instructions: An insructions is a command or order that tells the computer what to do. 
+-----------------------------------------------------------------------------------------------------
+Cooking:- receipe:-
+
+----------------------------------------------------------------------------------------
+Programming: - Python
+-------------------------------------------------------------------
+: Programming is the process of writing programs using a special language that computer can userstand.
+-----------------------------------------------------------------------------------------------------------
+Process:- A process means a step-by-step activity done to achieve a result.
+
+
+program - Source Code
+--------------------------------
+[.py, .c, .c++, .java] --- source file  : "Hello Gurjinder" --> High level
+----------------------------------------------
+Translator - [Assembly Languages] ---- [.s]
+---------------------------------------------------------
+
+Executable file [.i]
+------------------------------------------
+object file - [.o]  ---- Machine Language[Binary digit--0,1]
+
+---------------------------------------------------------------------------------------------------------------
+
+>> Types of Programming language.
+
+
+1). Low-Level Language
+	>> Close to machine language(0,1): Hard for humans to read.
+	>> Low level means it is 'low' in human readabilty.
+
+0001100----- 12
+
+11001 ---> 25
+--------------------------------------
+
+ASCII - "apple"
+
+2). High Level Language.
+	>> Close to human language. Easy to read and write.
+	>> High-level means "higher" human readablity. 
+-------------------------------------------------------------------------------------------------------
+What is python:
+
+Python is a high level, general-purpose, interpreted and dynamic initiallised programming langauge.
+----------------------------------------------------------------------------------------------------
+IoT --> Sensor: Apple
+-----------------------------------------
+Python has trillions of :
+-------------------------------------------------------
+Compiler- it translate your code at once. Ex:- C, C++, C#
+
+#include <stdio.h>
+
+int main(){
+	printf("hello world");
+	var x;  # Variable Declared
+	x = 20  # varibale Initialized
+	var y;
+	y = 30
+	var z;
+	z = x+y;
+	printf(z); // 50
+	return 0
+
+}
+
+Ex:- C,C++,C# --- > A, BPCL, BASIC, FoTRAN, C
+
+Interpreter:- It tranlate your code line by line
+
+print("Hello world")  // Hello world
+
+x = 20
+y = 30
+
+z = x+y
+print(z) = 1989
+
+
+-------------------------------------------------
+javascript,CSS, kotlin
+
+
+
+course Python: Job Oriented Programming language.
+------------------------------------------
+Data Science:
+Data Analyst:
+Machine Learning
+Deep Learning
+MR
+VR
+Data Scientiest
+IoT
+Fullstack
+Backend Python
+API -- FastAPI, RestAPI(Django), Flask
+------------------------------------------------------------------------------------------------------
+compiler
+var x;
+x = 20
+
+
+
+dynmamic 
+x= 20
+
+------------------------------------------------------------------------------------------------------
+VS Code, PyCharm, Jupyter Notebook etc.
+
+
+IDE- 
+-------------------------------------------------------------------------
+
+
+Content:
+-------------------------
+
+1. Python Baisc
+2. Python Data types
+3. Strings in Python
+4. List in Python
+5. Tuples in Python
+6. Sets
+7. dictionary
+8. condtions
+9. Loop
+	>> for-in 
+	>> while
+	>> break and continue
+10. Functions
+	>> Build-in Functions
+	>> Derived Functions [User-defined functions]
+11. Exceptional Handling
+12. Class and Objects
+13. Pillars of OOPs
+	>> Inheritance	
+		>> Types of Inheritance
+		>> 1. Single Inheritance
+		>> 2. Multiple Inheritance
+		>> 3. Multilevel Inheritance
+		>> 4. Hierarchical Inheritance
+		>> 5. Hybrid Inheritance
+	>> Polymorphism
+	>> Encapsulation
+	>> Data Abstractions
+14. File Handling
+	>> Reading Files in Python
+	>> Writing Files in Python
+15. Lambda functions
+16. List Comprehensions
+17. Generator
+18. Decorator
+19. Json
+20. API
+
+>> UX-UI -- [HTML,CSS,JS]
+
+>> Minimal Project- 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+45-days
+
+
+[16-32GB]
+[i3-i7]
+
+
+SQL-
+
+--------------------------------------------------------------------------------
+2 - (10)  < ----- Object code or Machine code.
+
+
+"Hello world" ----> OutPut -On the screen
+
+Assembly language:
+
+Object code ---> Machine Language - binary value.
+1+2  = 3
+
+(1 + 10 = 11)
+--------------------------------------------------------------------------------------------------
+			Number System
+			--------------
+				|
+-------------------------------------------------------------------------------------------------
+|			| 			|				|
+1). Decimal-10		2.Binary-2		3.Octal-8			2.Hexa-Decimal -16
+-----------------------------------------------------------------------------------------------------
+PIP/shell - Preferred Installer program.
+
+
+
+-----------------------------------------------------------------------
+
+Face Scanner: - Src Code  ----- > Object File[Binary value-2]:- password [sha256]
+------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
