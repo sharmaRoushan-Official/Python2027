@@ -1,0 +1,169 @@
+>> Programming Language:: Python
+>> C,C++, Java, Python, C#, Fortran, CoBOL
+------------------------------------------------------
+>> 1. What is Python?
+>> 2. Why is python so Popular?
+>> 3. Features of python?
+>> 4. Where is Python used in the industry?
+>> 5. Python Courses and Frameworks
+>> 6. Career Opportunity
+-----------------------------------------------------------------------------------
+>> What is Python?
+>> Python is general-Purpose, High-level, Interpreted programming language with simple syntax and 
+>> dynamic typing.
+
+print("This is a cat")
+
+>> High-Level Language- English,marathi, hindi, urdu, chinease etc.
+>> Low-Level Language- Machine Language,(Binary Digit-[0,1]-2)
+----------------------------------------------
+>> Compiler- It is translator that execute your code at once. [.c,] - header, body, return 0
+>> Assembler-
+>> Interpreter- It is also translator that execute your code line by line.[AI, ML, Framework]
+---------------------------------------------------------------------------
+
+Source Code-[.c,.py, .c#, .java, .js,]
+
+Executable code - [.i]
+
+Assembly code - [.s]
+
+object code - [.o]
+------------------------------------------------------------------------------------------
+>> Created By: Guido Van rossum in 1989.
+>> First Released in 1991.
+--------------------------------------------------------------------
+>> Why is python so popular?
+>> It is beginner-friendly.
+>> Used in almost every domain(Web,API, Data Science, Automation)
+>> Supported by huge community and thousands of libraries.
+>> It Works on Multiple platforms [Widonws, Linux, Mac]
+>> It it in High demand for jobs.
+-------------------------------------------------------------------------------------------------
+>> 3. Freatures of Python
+>> High-Level language- Code is close to human language.
+>> Interpreted:- Supports OOPs concept like class, inheritance, encapsulation, polymorphism as well data Abstraction.
+>> Cross-Platform:- Runs on any OS.
+>> Extensive Libraries- Pre-build libraries for Data, AI, Web, Automation etc.
+>> Dynamic typed: No need to declared variable type.
+>> Open-Source: Free to used and modify.
+>> Integration Friendly: Can integrate with C, C++, Java, R etc.
+------------------------------------------------------------------------------------------------------
+>>> Where Python is used?
+--------------------------------------------
+>> Python is used almost every industry today:
+----------------------------------------------
+>> Web Development: [Django, Flask]
+>> Data Science and Data analytics: [NumPy, Pandas, Matplotlib]
+>> Machine Learning and AI: [TensorFlow, PyTorch]
+>> Cyber Security and Ethical Hacking (Scpy, Nmap, testing tools)
+>> IoT:(MicroPython, Raspberry PI)
+>> Game Development: [Pygame, Panda3D]
+>> VR/MR: [PyOpenGL, Vizard]
+>> etc.
+------------------------------------------------------------------------------------------------------
+>> Python Learning Path:
+>> If you want ot master in Python then you follow these steps:
+>> Python Baisc
+>> Python Variables
+>> x = 10
+>> Python Data Types:
+>> 1. String
+>> 2. List
+>> 3. tuples
+>> 4. set
+>> 5. dictionary
+>> 6. Conditions in Python
+>> 7. Loops in Python
+	>> 1. For- in  (range())
+	>> 2. while Loop
+>> 8. Functions in Python
+	>> Built-in 
+	>> User-Defined Function
+	>> Derived Function
+>> 9. Exceptional Handling
+	>> try:except:else:finally.
+>> 10. Class and Object
+	>> Class
+	>> Object
+	>> Constructor
+	>> Method
+	>> Pillar of OOps
+	>> 1. Inheritance
+		>> 1. Single Inheritance(Simple Inheritance)
+		>> 2. Mutiple Inheritance
+		>> 3. Multilevel Inheritance
+		>> 4. Hierarchical Inheritance
+		>> 5. Hybrid Inheritance
+	>> 2. Polymorphism
+		>> Overriding
+		>> Overloading
+	>> 3. Encapsulation 
+	>> 4. Data Abstraction
+
+>> 11. file Handling
+	>> Creating files in Python
+		>> .pdf, .doc, .exe, .text, .jpg etc.
+	>> Reading files in Python
+		>> .pdf, .doc, .exe, .text, .jpg etc.
+>> 12. Lambda function: It is small anonymous function in python.
+>> 13. List Comprehension
+>> 14. Math Module in Python
+>> 15. Generator in Python
+>> 16. Decorator in Python
+>> 17. Json in python [javaScript Object Notation file.]
+>> 18. AIP- [Application Programming Interface]
+>> 19. Modules and Libraries
+>> 20. Minimal Project
+---------------------------------------------------------------------------------------------
+
+6. Python Courses and Their Frameworks
+------------------------------------------------------------------------------------
+Data Science:
+	>> Libraries/Frameworks: Pandas, NumPY, SciPy, Matplotlib, Seaborn etic.
+Web Development:
+	>> Framework: Django, Flask, Web2Py, Bottle, CherryPy
+	>> Build websites, web apps, APIs, 
+	>> Django is full-stack web development framework, 
+	>> Flask is lightweighted framework.
+--------------------------------------------------------------------------------------------------
+Machine Learning [ML]
+	>> Frameworks:- SciKit-Learn, Tensorflow, PyTorch, Keras
+---------------------------------------------------------------------------------------------------
+Data Analytics:
+	>> Frameworks: - Pandas, NumPY, matplotLib, PowerBi Integration
+---------------------------------------------------------------------------------------------
+Deep Learning 
+	>> Frameworks: TensorFlow, Keras, PyTorch
+-----------------------------------------------------------------------------------------------------
+Artifical Intelligence:
+	>> Frameworks: - OpenAI, Tensorflow, PyTorch
+----------------------------------------------------------------------------------------
+NLP [Natural language Processing]
+	>> Framewowrks: NLTK, Gensim, Hugging Face Transformer.
+--------------------------------------------------------------------------------------
+Computer Vision (OpenCV)
+	Library: OpenCV, MediaPipe, PyTorch Vision.
+	>> Face Recognition, object detection etc
+----------------------------------------------------------------------------------------
+Ethical Hancing and IoT:
+	>> tools: Python NMap, MicroPython
+----------------------------------------------------------------------------------------
+Automation and Testing:
+	>> Selenium, PyTest, Robot framework, unittest
+------------------------------------------------------------------------------------------------
+Career Opporutnity:
+	>> Python Developer:- Build apps, API, software
+	>> Data Scientiest: Analyze and Visualize data.
+	>> Machine Learning: Create ML models
+	>> AI Engineer: Develope AI-based solutions.
+	>> Web Developer: Build dynamic Website.
+	>> Automation Engineer: Automate repetitive tasks
+	>> Cyber Security analyst: Ethical hacing, penetration testing.
+	>> IoT: Work with connected Device.
+--------------------------------------------------------------------------------------------------------
+
+
+	
+
+
